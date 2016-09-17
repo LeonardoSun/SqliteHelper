@@ -24,12 +24,27 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\Administrator\Documents\test\ArchitectureLayer\YZSqlite\header\sqlitehelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="helper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sqlite3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Win32Project1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Documents\test\ArchitectureLayer\YZSqlite\source\sqlitehelper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="helper.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
